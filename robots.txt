@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ericdealshub.github.io/eric-searchable-site/sitemap.xml
